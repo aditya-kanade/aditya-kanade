@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aditya-kanade-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kanade-" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_kanade_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_kanade_09" height="30" width="40" /></a>
+  <a href="https://fb.com/https://www.facebook.com/share/19tmdnyq3a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/19tmdnyq3a/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@LostBoyAdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@LostBoyAdi?si=1IbU7Q2mgBQ2JE4Q" height="30" width="40" /></a>
 </p>
 
