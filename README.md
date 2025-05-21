@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-kanade" alt="aditya-kanade" /></a> </p>
 
-- 🌱 I’m currently learning Front-end development **React.js, Express.js,Etc.**
+- 🌱 I’m currently learning Front-end development **DATA ANALYTICS.**
 
-- 💬 Ask me about **React, Python, Javascript.**
+- 💬 Ask me about **React, Python, SQL.**
 
 - 📫 How to reach me **adityakanade42@gmail.com**
 
