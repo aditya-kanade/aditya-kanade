@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-kanade" alt="aditya-kanade" /></a> </p>
 
-- 🌱 I’m currently learning Front-end development **DATA ANALYTICS.**
+- 🌱 I’m currently learning **DATA ANALYTICS.**
 
 - 💬 Ask me about **React, Python, SQL.**
 
