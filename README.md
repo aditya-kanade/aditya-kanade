@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **DATA ANALYTICS.**
 
-- 💬 Ask me about **React, Python, SQL.**
+- 💬 Ask me about **Python, SQL ,PowerBi ,HTML/CSS.**
 
 - 📫 How to reach me **adityakanade42@gmail.com**
 
