@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya-kanade
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end development
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityakanade42@gmail.com
 - 😄 Pronouns: ...
