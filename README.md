@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I’m not just a developer—I love creative fields like writer,sketching,painting,youtube,graphic design,editing,and digital art. I believe that a great web experience is a blend of technology and creativity.
 
 <h1 align="center">Hi 👋, I'm Aditya Kanade</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Data Analyst and front-end-developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-kanade" alt="aditya-kanade" /></a> </p>
 
